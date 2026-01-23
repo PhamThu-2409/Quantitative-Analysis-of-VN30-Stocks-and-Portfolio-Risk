@@ -76,7 +76,7 @@ Quantitative Analysis of VN30 Stocks and Portfolio Risk/
 ## Báo cáo đầy đủ (Report)
 Bản báo cáo hoàn chỉnh có thể xem tại đây:
 
-📄 ** https://github.com/PhamThu-2409/Quantitative-Analysis-of-VN30-Stocks-and-Portfolio-Risk/blob/main/report.pdf**
+📄 https://github.com/PhamThu-2409/Quantitative-Analysis-of-VN30-Stocks-and-Portfolio-Risk/blob/main/report.pdf
 
 ---
 
