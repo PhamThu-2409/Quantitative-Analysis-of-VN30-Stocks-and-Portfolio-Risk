@@ -1,4 +1,4 @@
-# Phân tích định lượng cổ phiếu VN30 và rủi ro danh mục
+# Phân tích định lượng cổ phiếu VN30 và rủi ro danh mục đầu tư
 
 ## Mô tả (Description)
 Dự án này thực hiện phân tích định lượng toàn diện đối với các cổ phiếu thuộc chỉ số VN30 trong giai đoạn 2020–2025, tập trung vào phân tích lợi suất, rủi ro hệ thống và xây dựng danh mục đầu tư.
